@@ -1,2 +1,14 @@
 
-**Understanding Unsupervised Learning**
+**Understanding Unsupervised Learning** 
+
+Unsupervised Learning: Applying machine learning concepts to unorganised, unlabeled, and messy data to help with clustering and improve the current data specs and structures.
+
+In order to understand the meaning behind the scattered data, a lot of assumptions and estimations are made, that too with trial and error, in order to arrange the data perfectly.
+
+Broadly, in classifying practical unsupervised learning practices, they are categorised into two: Clustering and Representation Learning
+
+1) Clustering: Grouping unlabeled data together based on shared similarities, features, or patterns. The algorithm figures out the natural groupings in the data on its own.
+
+2) Representation Learning: To transform complex data vectors into simpler, smaller, and more understandable representations to streamline the process of dealing with and breaking down harder data points.
+
+** Studying the Algos*
